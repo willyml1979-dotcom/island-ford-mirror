@@ -1,6 +1,6 @@
 {
   "dealership": "Island Ford",
-  "generated_at": "2026-10-26T04:03:31",
+  "generated_at": "2026-10-26T08:36:32",
   "vehicle_count": 495,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -4351,25 +4351,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SUXTMA29835",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/be5d040d9a46.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56475.0,
+      "price": 52283.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SUXTMA24246",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/7b9b191375e8.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56198.0,
+      "price": 51988.0,
       "price_currency": "CAD"
     },
     {
@@ -4380,18 +4380,18 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 49504.0,
+      "price": 44338.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU6TMA30478",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/3cf19ace9cce.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56805.0,
+      "price": 52633.0,
       "price_currency": "CAD"
     },
     {
@@ -4402,18 +4402,18 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 57082.0,
+      "price": 52928.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU2TMA24659",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/b3bec07beb47.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56950.0,
+      "price": 52788.0,
       "price_currency": "CAD"
     },
     {
@@ -4424,40 +4424,40 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 57834.0,
+      "price": 53728.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | Electric | AWD | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU0TMA30234",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/b866ed53272e.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56475.0,
+      "price": 52283.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU0TMA23753",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/03a413f623df.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56198.0,
+      "price": 51988.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU4TMA24565",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/ccd246ead26b.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56198.0,
+      "price": 51988.0,
       "price_currency": "CAD"
     },
     {
@@ -4468,7 +4468,7 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 48233.0,
+      "price": 39999.0,
       "price_currency": "CAD"
     },
     {
@@ -4479,29 +4479,29 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 50256.0,
+      "price": 45138.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU0TMA24448",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/083b58644935.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 55977.0,
+      "price": 51988.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | Electric | AWD | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU3TMA24024",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/758821af24a4.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56721.0,
+      "price": 52788.0,
       "price_currency": "CAD"
     },
     {
@@ -4710,7 +4710,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 54602.0,
+      "price": 56663.0,
       "price_currency": "CAD"
     },
     {
