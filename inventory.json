@@ -1,6 +1,6 @@
 {
   "dealership": "Island Ford",
-  "generated_at": "2026-10-26T00:01:42",
+  "generated_at": "2026-10-26T04:03:31",
   "vehicle_count": 495,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -226,13 +226,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Ford Focus Hatchback 5dr HB Titanium",
+      "name": "2014 Ford Focus Hatchback Titanium | Moonroof | Dual Climate Ctrl | As Is",
       "vin": "1FADP3N29EL331809",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/753814964cfa.html",
       "year": 2014,
       "make": "Ford",
       "model": "Focus",
-      "condition": "used"
+      "condition": "used",
+      "price": 3999.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2014 Jeep Wrangler Sport | Trailer Tow Hitch | No Accidents | As Is",
@@ -550,7 +552,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 23999.0,
+      "price": 24499.0,
       "price_currency": "CAD"
     },
     {
