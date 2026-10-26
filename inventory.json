@@ -1,7 +1,7 @@
 {
   "dealership": "Island Ford",
-  "generated_at": "2026-10-25T18:50:56",
-  "vehicle_count": 478,
+  "generated_at": "2026-10-26T00:01:42",
+  "vehicle_count": 495,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1398,17 +1398,6 @@
       "model": "Bronco Sport",
       "condition": "new",
       "price": 38697.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport Outer Banks | 300A | 4X4 | Tech Package",
-      "vin": "3FMCR9CN7TRE86238",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/dfc33fac5d9f.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 40767.0,
       "price_currency": "CAD"
     },
     {
@@ -4195,36 +4184,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | 300A | 73 KWH STD RANGE",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 73 Kwh | Drive Modes",
       "vin": "3FMTK3S58TMA30684",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/668359439c79.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 52855.0,
+      "price": 48433.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU1TMA30730",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/977115aae914.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 57082.0,
+      "price": 52928.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | Electric | EXT Range | AWD",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU1TMA23910",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/3424fadf0c11.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56198.0,
+      "price": 51988.0,
       "price_currency": "CAD"
     },
     {
@@ -4235,40 +4224,40 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 52602.0,
+      "price": 47633.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SUXTMA29978",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/521e87fa7e98.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56765.0,
+      "price": 52633.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | Electric | EXT Range | AWD",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU8TMA30742",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/74a8c55b72cd.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56198.0,
+      "price": 51988.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU8TMA24486",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/9486793cc809.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56198.0,
+      "price": 51988.0,
       "price_currency": "CAD"
     },
     {
@@ -4279,7 +4268,7 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 52602.0,
+      "price": 47633.0,
       "price_currency": "CAD"
     },
     {
@@ -4290,29 +4279,29 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 52273.0,
+      "price": 47283.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU9TMA24383",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/2b5bc7bdb4b5.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56950.0,
+      "price": 52788.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | EXT Range",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU7TMA24382",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/4daa1e3453d7.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56198.0,
+      "price": 51988.0,
       "price_currency": "CAD"
     },
     {
@@ -4323,18 +4312,18 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 52602.0,
+      "price": 47633.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | Electric | EXT Range | AWD",
+      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU1TMA23812",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/34d8c2e3c9fa.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 56198.0,
+      "price": 51988.0,
       "price_currency": "CAD"
     },
     {
@@ -4345,7 +4334,7 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 57082.0,
+      "price": 52928.0,
       "price_currency": "CAD"
     },
     {
@@ -4356,7 +4345,7 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 57557.0,
+      "price": 53433.0,
       "price_currency": "CAD"
     },
     {
@@ -4668,6 +4657,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Ford Mustang Mach-E Select | AWD | Electric | 73kWh | Winter Package",
+      "vin": "3FMTK1S54TMA33831",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/449006c38d3b.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "price": 44983.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Ford Mustang EcoBoost Fastback Coupe | RWD | Pony Package",
       "vin": "1FA6P8TH5T5126728",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/07a780e92313.html",
@@ -4965,6 +4965,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Ford Ranger Raptor | 405HP Twin-Turbo V6 | Advanced Tow Pkg",
+      "vin": "1FTER4LR3TLE48023",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/17ad43a6a8b3.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Ranger",
+      "condition": "new",
+      "price": 85612.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Ford Transit Cargo Van T-350 | 148 | Medium Roof | RWD | Keyless Pad",
       "vin": "1FTBW9C86TKA01630",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/b90098e724a1.html",
@@ -5053,6 +5064,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Ford Transit Cargo Van ",
+      "vin": "1FTBF8C87TKA79943",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/547e0706ee49.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Transit Cargo",
+      "condition": "new",
+      "price": 71760.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Toyota Prius Plug-In Hybrid SE | Drive Modes | Winter Package | No Accidents",
       "vin": "JTDACACU2T3058887",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/0ef4cff92c0b.html",
@@ -5094,6 +5116,94 @@
       "model": "Bronco Sport",
       "condition": "new",
       "price": 60673.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Bronco Sport Badlands | 400A | 4X4 | Badlands Premium Package",
+      "vin": "3FMCR9DA9VRE20529",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/b2cc8547dabd.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 58178.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Bronco Sport Outer Banks | 300A | 4X4 | Tech Package | Tow Pkg",
+      "vin": "3FMCR9CN5VRE20516",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/8a7343b5b187.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 53273.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Bronco Sport Badlands | 400A | 4x4 | Badlands Premium Package",
+      "vin": "3FMCR9DA6VRE21010",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/dc7ecdbf9356.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 57378.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Bronco Sport Badlands | 400A | 4x4 | Sasquatch Package",
+      "vin": "3FMCR9DA5VRE21452",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/005ddaf9b1d8.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 60973.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Bronco Sport Outer Banks | 300A | 4x4 | Sasquatch Package",
+      "vin": "3FMCR9CN3VRE20580",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/feac54442758.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 56973.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Bronco Sport Badlands | 400A | 4x4 | Sasquatch Package",
+      "vin": "3FMCR9DA5VRE21712",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/dbd6976a19d3.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 61668.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Bronco Sport Outer Banks | 300A | 4x4 | Sasquatch Package",
+      "vin": "3FMCR9CN4VRE20068",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/0d0202506292.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 56270.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Bronco Sport Outer Banks | 300A | 4x4 | Drive Modes | Tech Pkg",
+      "vin": "3FMCR9CN1VRE20402",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/2fd9bcd8ab18.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "new",
+      "price": 53273.0,
       "price_currency": "CAD"
     },
     {
@@ -5193,6 +5303,83 @@
       "model": "F-450",
       "condition": "new",
       "price": 143168.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Maverick LARIAT | AWD | 501A | 4K Tow Package | Moonroof",
+      "vin": "3FTTW8S35VRA20057",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/f0cd226ec190.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 55888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Maverick XLT | AWD | 301A | 4K Tow Package | Moonroof",
+      "vin": "3FTTW8J34VRA20259",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/f5b1f8bd6b73.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 49693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Maverick XLT | AWD | 301A | 4K Tow Package | Moonroof",
+      "vin": "3FTTW8J31VRA19747",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/ce7cfadee075.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 51593.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Maverick LARIAT | AWD | 501A | 4K Tow Package | Moonroof",
+      "vin": "3FTTW8S31VRA20296",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/7353d5a72bb3.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 55888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Maverick XL | AWD | 101A | 4K Tow Package",
+      "vin": "3FTTW8B32VRA19951",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/1c80b3ac0af6.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 45493.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Maverick XL | AWD | 101A | 4K Tow Package",
+      "vin": "3FTTW8B35VRA20303",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/65b659485e7a.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 45193.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford Maverick LARIAT | AWD | 501A | 4K Tow Package | Moonroof",
+      "vin": "3FTTW8S35VRA20253",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/4aa40a8d54fb.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Maverick",
+      "condition": "new",
+      "price": 55888.0,
       "price_currency": "CAD"
     },
     {
