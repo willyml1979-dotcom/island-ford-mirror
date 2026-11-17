@@ -1,6 +1,6 @@
 # Island Ford
 
- dealership in Duncan. AI-readable inventory mirror, about 493 vehicles.
+ dealership in Duncan. AI-readable inventory mirror, about 457 vehicles.
 
 - Official website: https://www.islandford.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/island-ford-mirror/used/

@@ -1,7 +1,7 @@
 {
   "dealership": "Island Ford",
-  "generated_at": "2026-11-16T22:15:57",
-  "vehicle_count": 493,
+  "generated_at": "2026-11-17T10:26:06",
+  "vehicle_count": 457,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1183,28 +1183,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Badlands | 400A | 4X4 | BadlandsTech Package",
-      "vin": "3FMCR9DA1TRE04290",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/871022b383c5.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 57078.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport Outer Banks | 300A | 4X4 | Blind Spot Monitor",
-      "vin": "3FMCR9CN2TRE05016",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/4712863d97f2.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 37000.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Bronco Sport Outer Banks | 300A | 4X4 | Tech Package | Moonroof",
       "vin": "3FMCR9CN4TRE09164",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/30a21c8838b5.html",
@@ -1260,17 +1238,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Sport Big Bend | 200A | 4x4 | Drive Modes",
-      "vin": "3FMCR9BN1TRE20043",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/b98ab5968506.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 35493.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Bronco Sport Big Bend | 200A | 4X4 | Convenience Package",
       "vin": "3FMCR9BN1TRE18311",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/6c7a90a96183.html",
@@ -1301,17 +1268,6 @@
       "model": "Bronco Sport",
       "condition": "new",
       "price": 39471.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport Badlands | 400A | 4X4 | Sasquatch Tech Package",
-      "vin": "3FMCR9DA2TRE86420",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/ab7569c8be9e.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 56863.0,
       "price_currency": "CAD"
     },
     {
@@ -1378,39 +1334,6 @@
       "model": "Bronco Sport",
       "condition": "new",
       "price": 38697.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport Big Bend | 200A | 4X4 | Black Appearance Package",
-      "vin": "3FMCR9BN7TRE85446",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/a68bef5f25b5.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 38697.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport Big Bend | 200A | 4X4 | Convenience Package",
-      "vin": "3FMCR9BN1TRE85524",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/22bcb7749f30.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 36743.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport Big Bend | 200A | 4x4 |  Heated Front Seats",
-      "vin": "3FMCR9BN6TRE87110",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/6dcfb3f8f785.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 38437.0,
       "price_currency": "CAD"
     },
     {
@@ -1810,17 +1733,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Explorer Active | 4WD | 3rd Row | 7 Seater | Navigation",
-      "vin": "1FMUK8DHXTGB34290",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/eb2dcdf3f966.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "new",
-      "price": 50993.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Explorer Active | 4WD | Seats 6 | Navigation | Winter Pkg",
       "vin": "1FMUK8DH2TGB84679",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/9ec5d4cd6b22.html",
@@ -1997,17 +1909,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 XLT | 145 | 302A | Black Appearance Package",
-      "vin": "1FTFW3L87TFA85562",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/4eb3ad6c9b9e.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 67168.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford F-150 XLT | 157 | 302A | Black Appearance Package Plus",
       "vin": "1FTFW3L8XTKD91663",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/0da077df7135.html",
@@ -2096,17 +1997,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 XLT | 145 | 301A | FX4 Off-Road Pkg | Tow/Haul Pkg",
-      "vin": "1FTFW3LD8TFA32477",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/de572c5f264b.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 68278.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford F-150 XLT | 145 | 302A | Black Appearance Package",
       "vin": "1FTFW3L85TKD55248",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/5109c9d814b1.html",
@@ -2137,17 +2027,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 70453.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLT | 145 | 302A | Black Appearance Package",
-      "vin": "1FTEW3LP8TKE13534",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/07e5985a15cf.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 59999.0,
       "price_currency": "CAD"
     },
     {
@@ -2313,17 +2192,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 81017.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremor | 145 | 402B | Navigation",
-      "vin": "1FTFW4L83TFB51949",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/29a5393cbd3a.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 74999.0,
       "price_currency": "CAD"
     },
     {
@@ -2624,17 +2492,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 XLT | 301A| 157 | BLACK APPEARENCE PKG",
-      "vin": "1FTFW3L82TFB76917",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/97953529d21e.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 59443.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford F-150 XLT | 303A | 145 | BLACK APPERENCE PKG",
       "vin": "1FTFW3L81TFB73331",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/a553a2c9cc76.html",
@@ -2823,17 +2680,6 @@
     },
     {
       "name": "2026 Ford F-150 XLT | 145 | Drive Modes | Black Appearance Package",
-      "vin": "1FTEW3LP6TFC20579",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/d8ab8768c6f6.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 66878.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLT | 145 | Drive Modes | Black Appearance Package",
       "vin": "1FTFW3L81TFC21927",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/175d211b51fd.html",
       "year": 2026,
@@ -2874,17 +2720,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 117068.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremor | 145 | Mobile Package | Tow/Haul Package",
-      "vin": "1FTFW4L52TFC18773",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/c4eca4504a00.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 88313.0,
       "price_currency": "CAD"
     },
     {
@@ -2940,17 +2775,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 76858.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 Tremor | 145 | Tow/Haul Package | Moonroof",
-      "vin": "1FTFW4L55TFC20145",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/a600145c7ba0.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 81623.0,
       "price_currency": "CAD"
     },
     {
@@ -3028,17 +2852,6 @@
       "model": "F-150",
       "condition": "new",
       "price": 69883.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XL | 157 | Drive Modes | Tow/Haul Package",
-      "vin": "1FTFW1L83TKF38233",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/29fd902c74db.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 63178.0,
       "price_currency": "CAD"
     },
     {
@@ -3207,39 +3020,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-150 XLT | 4X4 | 302A | BLACK APPEARENCE PKG",
-      "vin": "1FTEW3LP8TKE98794",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/76a2e2d6e57c.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 63683.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLT | 4X4 | 303A |  BLACK APPEARENCE PKG",
-      "vin": "1FTEW3LP0TFC09335",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/eb169b2d2646.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 69253.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150 XLT | 4X4 | 303A | BLACK APPEARANCE PKG",
-      "vin": "1FTEW3LP6TKE96140",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/635004b289df.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 66998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford F-150 XLT | 302A | 4X4 | BLACK APPEARENCE PKG",
       "vin": "1FTFW3L51TKF02574",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/d6da75ace7ca.html",
@@ -3383,17 +3163,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford F-350 Super Duty XLT | 613A | 160 | XLT PREMIUM PKG",
-      "vin": "1FT8W3BT0TEF54737",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/17d4e049a520.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-350",
-      "condition": "new",
-      "price": 94053.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Maverick Tremor | AWD | Winter Package | Blind Spot Monitor",
       "vin": "3FTTW8NA8TRA96394",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/de62e7946058.html",
@@ -3424,17 +3193,6 @@
       "model": "Maverick",
       "condition": "new",
       "price": 53092.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Maverick XLT | 301A | AWD | XLT LUXURY PKG",
-      "vin": "3FTTW8J37TRB32597",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/287e20ab602b.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "new",
-      "price": 50043.0,
       "price_currency": "CAD"
     },
     {
@@ -3725,17 +3483,6 @@
     },
     {
       "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 73 Kwh | Drive Modes",
-      "vin": "3FMTK3S56TMA18386",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/b68c1316497d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 44133.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 73 Kwh | Drive Modes",
       "vin": "3FMTK3S56TMA17934",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/18265cd2a0e6.html",
       "year": 2026,
@@ -3820,17 +3567,6 @@
       "model": "Mustang Mach-E",
       "condition": "new",
       "price": 49933.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang Mach-E Select | 100A | AWD | 73KWH STD RANGE",
-      "vin": "3FMTK1S55TMA20165",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/fca1d61eb203.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 43133.0,
       "price_currency": "CAD"
     },
     {
@@ -4065,17 +3801,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Technology Pkg",
-      "vin": "3FMTK3SUXTMA24263",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/59af85d39308.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 51988.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Mustang Mach-E Select | AWD | Electric | 73 Kwh | Drive Modes",
       "vin": "3FMTK1S59TMA24087",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/f2bb1c18adb2.html",
@@ -4084,17 +3809,6 @@
       "model": "Mustang Mach-E",
       "condition": "new",
       "price": 45138.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Technology Pkg",
-      "vin": "3FMTK3SU0TMA24031",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/3918dd4adbf4.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 51988.0,
       "price_currency": "CAD"
     },
     {
@@ -4139,28 +3853,6 @@
       "model": "Mustang Mach-E",
       "condition": "new",
       "price": 52283.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
-      "vin": "3FMTK3SU5TMA24560",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/c761240efff3.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 52788.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
-      "vin": "3FMTK3SU8TMA24147",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/c9fd14d04007.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 51988.0,
       "price_currency": "CAD"
     },
     {
@@ -4233,17 +3925,6 @@
       "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
       "vin": "3FMTK3SU8TMA30742",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/74a8c55b72cd.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 51988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
-      "vin": "3FMTK3SU8TMA24486",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/9486793cc809.html",
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
@@ -4450,17 +4131,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Mustang Mach-E Select  | AWD | 100A | 73 KWH STD RANGE",
-      "vin": "3FMTK1S54TMA23820",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/7821ea832514.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 39999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Mustang Mach-E Select | AWD | Electric | 73 Kwh | Drive Modes",
       "vin": "3FMTK1S52TMA24139",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/06bfdb24fa64.html",
@@ -4659,6 +4329,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Ford Mustang Mach-E 88KWH STD RANGE | 100A | SELECT | HEATED SEATS",
+      "vin": "3FMTK1SU7TMA34379",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/e2fde2bb7746.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Mustang Mach-E",
+      "condition": "new",
+      "price": 47582.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Ford Mustang EcoBoost Fastback Coupe | RWD | Pony Package",
       "vin": "1FA6P8TH5T5126728",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/07a780e92313.html",
@@ -4692,17 +4373,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Ranger LARIAT | 128 | 500A | Black Appearance Package",
-      "vin": "1FTER4KH1TLE14462",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/1b9fb4f8c87b.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 56663.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Ranger XLT | 128 | 300A  | Navigation",
       "vin": "1FTER4HH2TLE14283",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/39112ea47b9d.html",
@@ -4710,7 +4380,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 46976.0,
+      "price": 47267.0,
       "price_currency": "CAD"
     },
     {
@@ -4721,7 +4391,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 48652.0,
+      "price": 49172.0,
       "price_currency": "CAD"
     },
     {
@@ -4732,7 +4402,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 58871.0,
+      "price": 60098.0,
       "price_currency": "CAD"
     },
     {
@@ -4743,7 +4413,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 55998.0,
+      "price": 57998.0,
       "price_currency": "CAD"
     },
     {
@@ -4754,7 +4424,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 54463.0,
+      "price": 55088.0,
       "price_currency": "CAD"
     },
     {
@@ -4765,7 +4435,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 43627.0,
+      "price": 43163.0,
       "price_currency": "CAD"
     },
     {
@@ -4780,17 +4450,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Ranger XL | 128 | 100A | STX Appearance Package",
-      "vin": "1FTER4PH0TLE33481",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/d36292603014.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 46363.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Ranger XLT | 128 | 301A | Navigation | Blind Spot Monitor",
       "vin": "1FTER4HP6TLE32664",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/a3a39c6f2ba3.html",
@@ -4798,7 +4457,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 52382.0,
+      "price": 53493.0,
       "price_currency": "CAD"
     },
     {
@@ -4831,7 +4490,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 52382.0,
+      "price": 53493.0,
       "price_currency": "CAD"
     },
     {
@@ -4842,7 +4501,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 57847.0,
+      "price": 60633.0,
       "price_currency": "CAD"
     },
     {
@@ -4853,7 +4512,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 43364.0,
+      "price": 44562.0,
       "price_currency": "CAD"
     },
     {
@@ -4864,7 +4523,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 49897.0,
+      "price": 50598.0,
       "price_currency": "CAD"
     },
     {
@@ -4875,7 +4534,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 43903.0,
+      "price": 43863.0,
       "price_currency": "CAD"
     },
     {
@@ -4887,28 +4546,6 @@
       "model": "Ranger",
       "condition": "new",
       "price": 43791.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger XLT | 4X4 | 300A | BLACK APPERENCE PKG",
-      "vin": "1FTER4HH1TLE44097",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/b17e578c868d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 47690.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Ranger XLT | 301A | TRAILER TOW PKG",
-      "vin": "1FTER4HP0TLE59438",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/f4afd92c909d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 56236.0,
       "price_currency": "CAD"
     },
     {
@@ -5030,39 +4667,6 @@
       "model": "Transit Cargo",
       "condition": "new",
       "price": 72688.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Transit Cargo Van ",
-      "vin": "1FTYE2Y86TKA85770",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/a2acebe1d95d.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Transit Cargo",
-      "condition": "new",
-      "price": 66905.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Transit Cargo Van T-350 148  EL Hi Rf 9500 GVWR AWD",
-      "vin": "1FTBW3UG0TKA50101",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/430cdda163ab.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Transit Cargo",
-      "condition": "new",
-      "price": 74840.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Transit Cargo Van ",
-      "vin": "1FTBF8C87TKA79943",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/547e0706ee49.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Transit Cargo",
-      "condition": "new",
-      "price": 71760.0,
       "price_currency": "CAD"
     },
     {
@@ -5275,14 +4879,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford F-450 Super Duty Platinum | 4X4 | 773A | TWIN PANEL MOONROOF",
-      "vin": "1FT8W4DMXVEC61622",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/01ffa9512e96.html",
+      "name": "2027 Ford F-350 Super Duty PLATINUM | 160 | 713A | FX4 OFF ROAD PKG",
+      "vin": "2FT8W3BM0VBA16174",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/9247bc8267b2.html",
       "year": 2027,
       "make": "Ford",
-      "model": "F-450",
+      "model": "F-350",
       "condition": "new",
-      "price": 143168.0,
+      "price": 137223.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Ford F-350 Super Duty KING RANCH | 710A | 160 | TWIN PANEL MOONROOF",
+      "vin": "2FT8W3BM3VBA15598",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/9ed4bd593a03.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "F-350",
+      "condition": "new",
+      "price": 135642.0,
       "price_currency": "CAD"
     },
     {
@@ -5404,17 +5019,6 @@
       "model": "Transit Cargo",
       "condition": "new",
       "price": 78838.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Ford Transit E-Transit Cargo Van XL | MR Cargo | Keyless Entry Pad | Overhead Shelf",
-      "vin": "1FTBW9CM0VKA10985",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/ddfd695118ab.html",
-      "year": 2027,
-      "make": "Ford",
-      "model": "Transit",
-      "condition": "new",
-      "price": 83723.0,
       "price_currency": "CAD"
     },
     {
