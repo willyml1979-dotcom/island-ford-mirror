@@ -1,7 +1,7 @@
 {
   "dealership": "Island Ford",
-  "generated_at": "2026-11-18T05:36:11",
-  "vehicle_count": 463,
+  "generated_at": "2026-11-18T10:37:14",
+  "vehicle_count": 462,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1221,7 +1221,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 38993.0,
+      "price": 34999.0,
       "price_currency": "CAD"
     },
     {
@@ -1232,7 +1232,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 35999.0,
+      "price": 38818.0,
       "price_currency": "CAD"
     },
     {
@@ -1243,7 +1243,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 40000.0,
+      "price": 41813.0,
       "price_currency": "CAD"
     },
     {
@@ -1254,7 +1254,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 40000.0,
+      "price": 41813.0,
       "price_currency": "CAD"
     },
     {
@@ -1276,7 +1276,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 39559.0,
+      "price": 39658.0,
       "price_currency": "CAD"
     },
     {
@@ -1287,7 +1287,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 39471.0,
+      "price": 39558.0,
       "price_currency": "CAD"
     },
     {
@@ -1298,7 +1298,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 38767.0,
+      "price": 38758.0,
       "price_currency": "CAD"
     },
     {
@@ -1309,7 +1309,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 36923.0,
+      "price": 36663.0,
       "price_currency": "CAD"
     },
     {
@@ -1442,17 +1442,6 @@
       "model": "Bronco Sport",
       "condition": "new",
       "price": 38697.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Bronco Sport Outer Banks | 300A | 4X4 | Tech Package",
-      "vin": "3FMCR9CN7TRE87177",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/48815d0f47fe.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 41878.0,
       "price_currency": "CAD"
     },
     {
@@ -5042,7 +5031,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford Transit Cargo Van ",
+      "name": "2027 Ford Transit Cargo Van Others",
       "vin": "1FTYE1Y80VKA36920",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/d668a547cb81.html",
       "year": 2027,
