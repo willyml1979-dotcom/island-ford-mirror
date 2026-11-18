@@ -1,6 +1,6 @@
 {
   "dealership": "Island Ford",
-  "generated_at": "2026-11-17T19:53:51",
+  "generated_at": "2026-11-18T01:23:40",
   "vehicle_count": 463,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -4609,7 +4609,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 43791.0,
+      "price": 43863.0,
       "price_currency": "CAD"
     },
     {
@@ -4620,7 +4620,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 52319.0,
+      "price": 53298.0,
       "price_currency": "CAD"
     },
     {
@@ -4631,7 +4631,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 43897.0,
+      "price": 43963.0,
       "price_currency": "CAD"
     },
     {
@@ -4642,7 +4642,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 43346.0,
+      "price": 44913.0,
       "price_currency": "CAD"
     },
     {
@@ -4653,7 +4653,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "new",
-      "price": 56420.0,
+      "price": 57812.0,
       "price_currency": "CAD"
     },
     {
@@ -4675,7 +4675,7 @@
       "make": "Ford",
       "model": "Transit Cargo",
       "condition": "new",
-      "price": 70150.0,
+      "price": 69650.0,
       "price_currency": "CAD"
     },
     {
@@ -4686,7 +4686,7 @@
       "make": "Ford",
       "model": "Transit Cargo",
       "condition": "new",
-      "price": 64643.0,
+      "price": 64143.0,
       "price_currency": "CAD"
     },
     {
@@ -4697,7 +4697,7 @@
       "make": "Ford",
       "model": "Transit Cargo",
       "condition": "new",
-      "price": 82408.0,
+      "price": 81908.0,
       "price_currency": "CAD"
     },
     {
@@ -4708,7 +4708,7 @@
       "make": "Ford",
       "model": "Transit Cargo",
       "condition": "new",
-      "price": 83408.0,
+      "price": 82908.0,
       "price_currency": "CAD"
     },
     {
@@ -4719,7 +4719,7 @@
       "make": "Ford",
       "model": "Transit Cargo",
       "condition": "new",
-      "price": 62795.0,
+      "price": 62295.0,
       "price_currency": "CAD"
     },
     {
@@ -4730,7 +4730,7 @@
       "make": "Ford",
       "model": "Transit Cargo",
       "condition": "new",
-      "price": 72688.0,
+      "price": 72188.0,
       "price_currency": "CAD"
     },
     {
@@ -4855,7 +4855,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford Expedition Platinum | 4X4 | 600A | Wireless Charing Pad",
+      "name": "2027 Ford Expedition Platinum | 4X4 | 7 Seater | Wireless Charing Pad",
       "vin": "1FMJU1MG7VEA31919",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/73b910b47465.html",
       "year": 2027,
@@ -4866,7 +4866,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford Explorer ST-Line | 300A | PREMIUM PKG",
+      "name": "2027 Ford Explorer ST-Line | 4WD | 3rd Row | 7 Seater | Premium Pkg",
       "vin": "1FMUK8KH9VGA61502",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/9c5fdbde7b4d.html",
       "year": 2027,
@@ -4877,7 +4877,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford Explorer Active | 200A | Twin Panel Moonroof",
+      "name": "2027 Ford Explorer Active | 4WD | 3rd Row | 7 Seater | Drive Modes",
       "vin": "1FMUK8DH5VGA61221",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/9ff772aa8e35.html",
       "year": 2027,
