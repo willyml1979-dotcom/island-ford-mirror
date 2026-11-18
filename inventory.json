@@ -1,6 +1,6 @@
 {
   "dealership": "Island Ford",
-  "generated_at": "2026-11-18T01:23:40",
+  "generated_at": "2026-11-18T05:36:11",
   "vehicle_count": 463,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -39,25 +39,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2007 Nissan Titan Crew Cab XE | A/C | CD Player | Trailer Tow Hitch | As Is",
+      "name": "2007 Nissan Titan Crew Cab XE | A/C | Trailer Tow Hitch | TOW OFF THE LOT",
       "vin": "1N6AA07BX7N235802",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/4b013acee865.html",
       "year": 2007,
       "make": "Nissan",
       "model": "Titan",
       "condition": "used",
-      "price": 6900.0,
+      "price": 4999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2008 Acura RDX Tech Pkg | Heated Front Seats | CD Player | As Is",
+      "name": "2008 Acura RDX Tech Pkg | Heated Front Seats | TOW OFF THE LOT",
       "vin": "5J8TB18588A802753",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/a57f462430f8.html",
       "year": 2008,
       "make": "Acura",
       "model": "RDX",
       "condition": "used",
-      "price": 2999.0,
+      "price": 2699.0,
       "price_currency": "CAD"
     },
     {
@@ -83,25 +83,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2011 Ford F-150 XLT | Tow Hitch | No Accidents | As Is",
+      "name": "2011 Ford F-150 XLT | Tow Hitch | TOW OFF THE LOT",
       "vin": "1FTFW1EF5BFC61586",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/4b9713477471.html",
       "year": 2011,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 5999.0,
+      "price": 2999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2011 Ford Fiesta Hatchback SE | CD Player | Winter Package | As Is",
+      "name": "2011 Ford Fiesta Hatchback SE | CD Player | Winter Package | TOW OFF THE LOT",
       "vin": "3FADP4EJ3BM158280",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/cf9fae833973.html",
       "year": 2011,
       "make": "Ford",
       "model": "Fiesta",
       "condition": "used",
-      "price": 5700.0,
+      "price": 4999.0,
       "price_currency": "CAD"
     },
     {
@@ -127,25 +127,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Dodge Grand Caravan Passenger Van SE | CD Player | Dual Climate Control | As Is",
+      "name": "2013 Dodge Grand Caravan Passenger Van SE | CD Player | TOW OFF THE LOT",
       "vin": "2C4RDGBG3DR504102",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/308be159a945.html",
       "year": 2013,
       "make": "Dodge",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 7501.0,
+      "price": 999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Ford F-150 XLT | Trailer Tow Package | As Is",
+      "name": "2013 Ford F-150 XLT | Trailer Tow Package | TOW OF THE LOT",
       "vin": "1FTFW1ET1DFC98935",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/1235e1b597ee.html",
       "year": 2013,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 9999.0,
+      "price": 8888.0,
       "price_currency": "CAD"
     },
     {
@@ -160,14 +160,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Audi Q5 Technik | Moonroof | Heated Front Seats | As Is",
+      "name": "2014 Audi Q5 Technik | Moonroof | TOW OFF THE LOT",
       "vin": "WA1LMCFP0EA046656",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/93ff35bdb8bb.html",
       "year": 2014,
       "make": "Audi",
       "model": "Q5",
       "condition": "used",
-      "price": 7999.0,
+      "price": 5888.0,
       "price_currency": "CAD"
     },
     {
@@ -182,14 +182,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Ford F-150 XLT | Tonneau Cover | 1 Owner | As Is",
+      "name": "2014 Ford F-150 XLT | Tonneau Cover | TOW OFF THE LOT",
       "vin": "1FTFW1ET5EFB78346",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/d5f0171a03da.html",
       "year": 2014,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 4900.0,
+      "price": 2999.0,
       "price_currency": "CAD"
     },
     {
@@ -222,29 +222,29 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 16900.0,
+      "price": 16499.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2014 RAM 1500 ST | Air Conditioning | No Accidents | As Is",
+      "name": "2014 RAM 1500 ST | Air Conditioning | TOW OFF THE LOT",
       "vin": "1C6RR7FT1ES111683",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/d7507109ecc6.html",
       "year": 2014,
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 13999.0,
+      "price": 12499.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Audi Q3 AS IS | Progressiv | Navigation | AWD",
+      "name": "2015 Audi Q3 TOW OF THE LOT | Progressiv | Navigation | AWD",
       "vin": "WA1EFEFS8FR008453",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/3ca492958697.html",
       "year": 2015,
       "make": "Audi",
       "model": "Q3",
       "condition": "used",
-      "price": 8999.0,
+      "price": 7999.0,
       "price_currency": "CAD"
     },
     {
@@ -303,14 +303,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Subaru Forester i Convenience | CD Player | As Is",
+      "name": "2015 Subaru Forester i Convenience | CD Player | TOW OFF THE LOT",
       "vin": "JF2SJCCC3FH826866",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/2047870a98b4.html",
       "year": 2015,
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 8999.0,
+      "price": 7888.0,
       "price_currency": "CAD"
     },
     {
@@ -380,14 +380,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Jeep Patriot High Altitude | Moonroof | As Is",
+      "name": "2016 Jeep Patriot High Altitude | Moonroof | TOW OFF THE LOT",
       "vin": "1C4NJRAB8GD645716",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/d9578caaccec.html",
       "year": 2016,
       "make": "Jeep",
       "model": "Patriot",
       "condition": "used",
-      "price": 5999.0,
+      "price": 3999.0,
       "price_currency": "CAD"
     },
     {
@@ -521,14 +521,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Hyundai Elantra Preferred | Moonroof | As Is",
+      "name": "2019 Hyundai Elantra Preferred | Moonroof | TOW OFF THE LOT",
       "vin": "KMHD84LFXKU816786",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/c52ec607d07e.html",
       "year": 2019,
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 5999.0,
+      "price": 5788.0,
       "price_currency": "CAD"
     },
     {
@@ -598,7 +598,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Ford Escape ",
+      "name": "2020 Ford Escape SEL | Moonroof | Trailer Tow Package | 1 Owner",
       "vin": "1FMCU9H95LUB88029",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/dd1d9157e2a9.html",
       "year": 2020,
