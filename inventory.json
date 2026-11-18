@@ -1,7 +1,7 @@
 {
   "dealership": "Island Ford",
-  "generated_at": "2026-11-18T10:37:14",
-  "vehicle_count": 462,
+  "generated_at": "2026-11-18T14:00:49",
+  "vehicle_count": 461,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -277,7 +277,7 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 8999.0,
+      "price": 5999.0,
       "price_currency": "CAD"
     },
     {
@@ -299,7 +299,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "used",
-      "price": 13699.0,
+      "price": 11999.0,
       "price_currency": "CAD"
     },
     {
@@ -321,7 +321,7 @@
       "make": "Subaru",
       "model": "Impreza",
       "condition": "used",
-      "price": 14900.0,
+      "price": 14199.0,
       "price_currency": "CAD"
     },
     {
@@ -332,7 +332,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 10999.0,
+      "price": 7999.0,
       "price_currency": "CAD"
     },
     {
@@ -365,7 +365,7 @@
       "make": "Ford",
       "model": "F-350",
       "condition": "used",
-      "price": 53900.0,
+      "price": 53399.0,
       "price_currency": "CAD"
     },
     {
@@ -391,14 +391,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Jeep Wrangler Sport | Removable Hard Top | 12V Outlet | As Is",
+      "name": "2016 Jeep Wrangler Sport | Removable Hard Top | TOW OFF THE LOT",
       "vin": "1C4BJWDG7GL177220",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/f9984e43597c.html",
       "year": 2016,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 13900.0,
+      "price": 12499.0,
       "price_currency": "CAD"
     },
     {
@@ -583,7 +583,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "used",
-      "price": 12900.0,
+      "price": 11888.0,
       "price_currency": "CAD"
     },
     {
@@ -715,7 +715,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 22900.0,
+      "price": 22499.0,
       "price_currency": "CAD"
     },
     {
@@ -803,18 +803,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 38999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford F-150 XLT | Drive Modes | Trailer Tow Package | 1 Owner",
-      "vin": "1FTFW1E8XNFA90307",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/7acf2c77f843.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 34999.0,
+      "price": 37888.0,
       "price_currency": "CAD"
     },
     {
@@ -924,7 +913,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 38999.0,
+      "price": 37036.0,
       "price_currency": "CAD"
     },
     {
@@ -1045,7 +1034,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 20900.0,
+      "price": 20799.0,
       "price_currency": "CAD"
     },
     {
@@ -1133,7 +1122,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 61999.0,
+      "price": 61499.0,
       "price_currency": "CAD"
     },
     {
