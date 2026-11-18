@@ -1,7 +1,7 @@
 {
   "dealership": "Island Ford",
-  "generated_at": "2026-11-17T10:26:06",
-  "vehicle_count": 457,
+  "generated_at": "2026-11-17T19:53:51",
+  "vehicle_count": 463,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -28,14 +28,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2004 MINI 3 Door Hardtop | Dual Moonroof | As Is",
+      "name": "2004 MINI 3 Door Hardtop | TOW OFF THE LOT",
       "vin": "WMWRC33474TC54226",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/beec4de3ec3a.html",
       "year": 2004,
       "make": "MINI",
       "model": "3 Door Hardtop",
       "condition": "used",
-      "price": 4999.0,
+      "price": 3999.0,
       "price_currency": "CAD"
     },
     {
@@ -65,6 +65,17 @@
       "vin": "1FMCU94128KD77871",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/6cb2b27a9d82.html",
       "year": 2008,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 4900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2010 Ford Escape XLT | 1 Owner | No Accidents | Tow Off The Lot",
+      "vin": "1FMCU9DG4AKC74719",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/d90f97ca489b.html",
+      "year": 2010,
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
@@ -102,6 +113,17 @@
       "model": "CR-V",
       "condition": "used",
       "price": 15999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2011 Volkswagen Jetta Sedan Highline",
+      "vin": "3VWLL7AJ5BM069817",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/66ccdeb25770.html",
+      "year": 2011,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "used",
+      "price": 3999.0,
       "price_currency": "CAD"
     },
     {
@@ -149,14 +171,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Chevrolet Silverado 1500 LT | Trailer Tow Hitch | Dual Climate Ctrl | As Is",
+      "name": "2014 Chevrolet Silverado 1500 LT | Trailer Tow Hitch | TOW OFF THE LOT",
       "vin": "1GCVKREHXEZ385797",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/f74e766cbb16.html",
       "year": 2014,
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 8900.0,
+      "price": 6999.0,
       "price_currency": "CAD"
     },
     {
@@ -413,17 +435,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Subaru Crosstrek Limited | Moonroof | 1 Owner | No Accidents",
-      "vin": "JF2GPANC7HH267797",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/7926635f5869.html",
-      "year": 2017,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used",
-      "price": 21900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 BMW 3 Series Sedan 330i xDrive | Moonroof | Drive Modes",
       "vin": "WBA8D9C51JA013738",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/ec2bf677623a.html",
@@ -433,6 +444,26 @@
       "condition": "used",
       "price": 15999.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Ford F-150 XLT | Trailer Tow Package | 1 Owner | No Accidents",
+      "vin": "1FTEW1EG6JFA11342",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/c3e75a25f569.html",
+      "year": 2018,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 29999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Nissan Leaf Hatchback SV",
+      "vin": "1N4AZ1CP5JC308621",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/18a59ce8074e.html",
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Leaf",
+      "condition": "used"
     },
     {
       "name": "2018 Nissan Pathfinder SL | Moonroof | Navigation | No Accidents",
@@ -453,7 +484,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 28999.0,
+      "price": 27888.0,
       "price_currency": "CAD"
     },
     {
@@ -520,6 +551,17 @@
       "model": "Murano",
       "condition": "used",
       "price": 17999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 RAM 1500 Classic Quad Cab Express | Winter Package | Trailer Tow Hitch",
+      "vin": "1C6RR7FGXKS701217",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/d988a0d572f3.html",
+      "year": 2019,
+      "make": "RAM",
+      "model": "1500 Classic",
+      "condition": "used",
+      "price": 22900.0,
       "price_currency": "CAD"
     },
     {
@@ -684,7 +726,7 @@
       "make": "Ford",
       "model": "Bronco",
       "condition": "used",
-      "price": 40999.0,
+      "price": 40799.0,
       "price_currency": "CAD"
     },
     {
@@ -849,7 +891,7 @@
       "make": "Lincoln",
       "model": "Corsair",
       "condition": "used",
-      "price": 29999.0,
+      "price": 26999.0,
       "price_currency": "CAD"
     },
     {
@@ -860,7 +902,7 @@
       "make": "Lincoln",
       "model": "Nautilus",
       "condition": "used",
-      "price": 38999.0,
+      "price": 37499.0,
       "price_currency": "CAD"
     },
     {
@@ -871,7 +913,7 @@
       "make": "Porsche",
       "model": "Macan AWD",
       "condition": "used",
-      "price": 46900.0,
+      "price": 45888.0,
       "price_currency": "CAD"
     },
     {
@@ -904,7 +946,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 34999.0,
+      "price": 34299.0,
       "price_currency": "CAD"
     },
     {
@@ -919,6 +961,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Ford Bronco Sport Big Bend | Drive Modes | 1 Owner | No Accidents",
+      "vin": "3FMCR9B6XPRE12392",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/1cee6e7a9ac5.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "Bronco Sport",
+      "condition": "used",
+      "price": 27999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Ford Bronco Big Bend | Drive Modes | No Accidents",
       "vin": "1FMDE5BHXPLC02612",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/1b4d93085d48.html",
@@ -926,7 +979,7 @@
       "make": "Ford",
       "model": "Bronco",
       "condition": "used",
-      "price": 41999.0,
+      "price": 39999.0,
       "price_currency": "CAD"
     },
     {
@@ -948,7 +1001,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 38999.0,
+      "price": 38799.0,
       "price_currency": "CAD"
     },
     {
@@ -959,7 +1012,7 @@
       "make": "Hyundai",
       "model": "IONIQ 6",
       "condition": "used",
-      "price": 31999.0,
+      "price": 30888.0,
       "price_currency": "CAD"
     },
     {
@@ -1007,6 +1060,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Ford F-150 STX | Drive Modes | Black Appearance Package",
+      "vin": "1FTEW2LP9RKE59392",
+      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/fd0bb78e30d2.html",
+      "year": 2024,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 46999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 GMC Sierra 3500HD Denali | Moonroof | Trailer Tow Hitch",
       "vin": "1GT49WEY0RF246517",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/used/72705980070b.html",
@@ -1025,7 +1089,7 @@
       "make": "Hyundai",
       "model": "Santa Cruz",
       "condition": "used",
-      "price": 32999.0,
+      "price": 30999.0,
       "price_currency": "CAD"
     },
     {
@@ -1036,7 +1100,7 @@
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
       "condition": "used",
-      "price": 29700.0,
+      "price": 27674.0,
       "price_currency": "CAD"
     },
     {
@@ -1058,7 +1122,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 30700.0,
+      "price": 30649.0,
       "price_currency": "CAD"
     },
     {
@@ -4677,7 +4741,7 @@
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "used",
-      "price": 37999.0,
+      "price": 36599.0,
       "price_currency": "CAD"
     },
     {
