@@ -1,7 +1,7 @@
 {
   "dealership": "Island Ford",
-  "generated_at": "2026-11-18T14:00:49",
-  "vehicle_count": 461,
+  "generated_at": "2026-11-18T21:02:58",
+  "vehicle_count": 460,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1148,7 +1148,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford F-150 XLT  302A 3.5L POWERBOOST SuperCrew",
+      "name": "2025 Ford F-150 XLT | 145 | 302A | Hybrid | Drive Modes | Tow/Haul",
       "vin": "1FTFW3LD4SFB82360",
       "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/c83b15872ee4.html",
       "year": 2025,
@@ -1309,7 +1309,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 39310.0,
+      "price": 36663.0,
       "price_currency": "CAD"
     },
     {
@@ -1320,7 +1320,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 39471.0,
+      "price": 39558.0,
       "price_currency": "CAD"
     },
     {
@@ -1353,7 +1353,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 37448.0,
+      "price": 37253.0,
       "price_currency": "CAD"
     },
     {
@@ -1375,7 +1375,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 38839.0,
+      "price": 38378.0,
       "price_currency": "CAD"
     },
     {
@@ -1386,7 +1386,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 38697.0,
+      "price": 38673.0,
       "price_currency": "CAD"
     },
     {
@@ -1397,7 +1397,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 36743.0,
+      "price": 36453.0,
       "price_currency": "CAD"
     },
     {
@@ -1419,7 +1419,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 38697.0,
+      "price": 38673.0,
       "price_currency": "CAD"
     },
     {
@@ -1430,7 +1430,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "new",
-      "price": 38697.0,
+      "price": 38673.0,
       "price_currency": "CAD"
     },
     {
@@ -1826,7 +1826,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 74860.0,
+      "price": 72860.0,
       "price_currency": "CAD"
     },
     {
@@ -1837,7 +1837,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 76090.0,
+      "price": 74090.0,
       "price_currency": "CAD"
     },
     {
@@ -1848,7 +1848,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 63295.0,
+      "price": 60295.0,
       "price_currency": "CAD"
     },
     {
@@ -1870,7 +1870,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 63475.0,
+      "price": 60475.0,
       "price_currency": "CAD"
     },
     {
@@ -3389,17 +3389,6 @@
       "model": "Mustang",
       "condition": "new",
       "price": 49773.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Mustang Mach-E Premium | AWD | Electric | 88 Kwh | Drive Modes",
-      "vin": "3FMTK3SUXTMA05762",
-      "url": "https://willyml1979-dotcom.github.io/island-ford-mirror/new/0b0859f226cb.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 51558.0,
       "price_currency": "CAD"
     },
     {
